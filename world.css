@@ -1,0 +1,57 @@
+body{
+    background: hsl(30, 38%, 92%);
+}
+
+.main{
+    width: 500px;
+    height: 440px;
+    margin: 0 auto;
+    margin-top: 10%;
+    background:hsl(0, 0%, 100%);
+    
+}
+.photo{
+    width: 220px;
+    height: 440px;
+    float: left;
+}
+.letter{
+    letter-spacing: 3px;
+    font-size: 20px;
+    color: hsl(228, 12%, 48%);
+    padding: 10px;
+    margin-left: 45%;
+    
+    
+}
+.para{
+    font-size: 30px;
+    font-weight: 1000;
+    margin-left: 10%;
+    color:  hsl(212, 21%, 14%);
+    margin-left: 50%;
+}
+.para-1{
+    font-size: 20px;
+    margin-left: 10%;
+    color: hsl(228, 12%, 48%);
+    margin-left: 50%;
+    
+}
+.coin{
+   margin-right: 30%;
+    font-size: 15px;
+    float: right;
+    color: black;
+}
+.coin-1{
+ color: green;
+ margin-left: 50%;
+}
+.add{
+    background: green;
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    margin-left:30px;
+}
